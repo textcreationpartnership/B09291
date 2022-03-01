@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Supreame Councell of the Confederat Catholicks of Ireland the deepe sense which wee haue of the sadd condition ...</title>
+            <author>Confederate Catholics. Supreme Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09291</idno>
+            <idno type="STC">Wing I353A</idno>
+            <idno type="STC">ESTC R178614</idno>
+            <idno type="EEBO-CITATION">61297040</idno>
+            <idno type="OCLC">ocm 61297040</idno>
+            <idno type="VID">180587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180587)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2835:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Supreame Councell of the Confederat Catholicks of Ireland the deepe sense which wee haue of the sadd condition ...</title>
+                  <author>Confederate Catholics. Supreme Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Kilkenny :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first lines of text.</note>
+                  <note>"Given at Kilkenny Castle the third day of June 1648."</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180587:1"/>
+            <head>C <figure>
+                  <head>HONT SOIT <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>EVI MA<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Y PENSE</head>
+                  <figDesc>seal</figDesc>
+               </figure> R BY THE SVPREAME COVNCELL OF THE CONFEDERAT CATHOLICKS OF IRELAND</head>
+            <p>THE deepe ſenſe Which wee haue of the ſadd condition, the Kingdome is at preſent reduced vnto, by the vnaduiſed proceedings of ſome <hi>Prelats Secular</hi> &amp; <hi>Regular,</hi> &amp; of ſome ſuperiors of Regular orders in this Kingdome, together with our iuſt feares, that vnleſs a timely courſe be taken to ſtopp the violence of thoſe vnwarrantable wayes, the whole body of the <hi>Confederats</hi> may run irrecouerable hazard; Theſe with the conſcience of doinge an act moſt Religious, by ſafeguarding innocence (though noe co<g ref="char:cmbAbbrStroke">̄</g>mon danger were ſuſpected) moued vs, to reflect on the duty wee owe to the publick, &amp; on the ſtraight tye which the oath of <hi>Aſſociation</hi> binds vs vnto, for its preſeruation, for diſcharge of our duty in both, &amp; ſtopping the current of evills which wee ſadly behold flowing out of this ſource (though the lawes both diuine &amp; naturall edge vs to vſe all extreamity in buſſines of ſoe great concernment, whereon the ſafety &amp; liues of the whole nation depends) yet being vnwilling to fix on any courſe which might ſeeme harsh (even to the offenders themſelues) wee thought good, firſt to admonish &amp; deſire all &amp; every the ſaid <hi>Prelats</hi> of what degree ſoeuer, <hi>Arch Bushopps, Bushopps, Abbots, vicars Generalls, Deanes, &amp; Chapters, Prouincialls, Priors, Guardians</hi> &amp; all other ſuperiors, coniuring them by the ſacred bond of the oath of Aſſociation, &amp; ſtrictly charging them, on theire due allegiance to his Maieſtie, his Crow<g ref="char:EOLhyphen"/>ne, his Kingdome, and vnto vs as Supreame Councell of the Confederat Catholicks, that they shall in noe wiſe moleſt any of theire reſpec<g ref="char:EOLhyphen"/>tiue ſubiects, Prieſts or Religious, for perſeuering in theire loyalty or (in purſuance thereof) for approuing the late Ceſſation made by vs with the Lord Barron of <hi>Inſiquin,</hi> and that they shall not commaund, ſollicit, deſire, or induce, by worde, writing, or deed, publickly or priuately, any of theire ſaid ſubiects to oppoſe the ſaid Ceſſation, or any other our iuſt Commaunds, in purſuance of it, for the publick ſafety, or to infuſe into the people any diſobedience to our authority, vppon any pretence whatſoeuer, even of the declaration made or Cenſures now iſſued, or heereafter to be iſſued by the Lord Nuncio, and his four <hi>Bushopps</hi> on the ſame ground, From all which [as both groundleſs and vnlawfull) wee haue (according to the rule of ſacred Canons,) legally appealed to his <hi>Holyneſs,</hi> and by that our addreſs, not only ſuſpended the paſt ſentences and Cenſures, but alſoe his <hi>Graces</hi> whole iuriſdiction, and the ſaid four Bushopps (if any they had) from proceeding any further therein, vntill his <hi>Holineſs</hi> pleaſure bee knowne.</p>
+            <p>AND furthermore, wee require (by vertue of the ſaid <hi>Oath,</hi> and vpon theire allegeance) all inferiors of both Cleargies, <hi>Dignitaries Curats, Preachers, Confeſſors,</hi> &amp; all others, of what condition ſoeuer they be, that they shall not, on any pretence [euen of the ſaid Gen<g ref="char:EOLhyphen"/>ſurs) withdraw any Confederat from approuing the ſaid Ceſſation, or obeying our orders and Decrees, made and to be made, in purſuance thereof, but rather endeauour, in their publick ſermons, priuat Conferences, and vpon each occaſion offerd, to confirme them in their allegiance to his Majeſtie, and our iuſt decrees and orders.</p>
+            <p>BESIDES, Wee thought it moſt neceſſary and iuſt, to receaue (as we doe by theſe, and from this inſtant) into the ſpeciall, and imme<g ref="char:EOLhyphen"/>diat protection of the Crowne and of his Majeſtie (the adminiſtration of whoſe rights, euen in this particular, is in our hands to<g ref="char:EOLhyphen"/>wards the Confederat Catholicks) all Church-men both <hi>Secular</hi> and <hi>Regular,</hi> of what degree ſoeuer, who hitherto have declared them<g ref="char:EOLhyphen"/>ſelues faithfull and obedient to the Gouernment of the Kingdome, and who haue therefore, and for oppoſeing ſiniſter and Dangerous practi<g ref="char:EOLhyphen"/>ſes againſt vs, and ſuch as are in authority, beene heeretofore, are for the preſent, or shall heereafter be perſecuted by theire ſuperiours, vex<g ref="char:EOLhyphen"/>ed, hindred, ſuſpended, depriued or any way moleſted; Proteſting and publishing to the world, that wee will vſe all the extent of our power to ſuppreſſ &amp; defend their innocence heerein, againſt the <hi>Lord Nuncio</hi> and ſuch theire Superiours, vntill his <hi>Holineſſ</hi> and <hi>Generall Supe<g ref="char:EOLhyphen"/>riors</hi> of Inſtituts (being ſufficiently enformed) prouide further, for the affaires of the <hi>Church,</hi> and duediſcipline of Regular orders in <hi>Ireland.</hi>
+            </p>
+            <p>LASTLY, wee Declare vnto the ſaid <hi>Prelats</hi> and <hi>Superiours,</hi> and likwiſe vnto all inferiors of either <hi>Clergie,</hi> that if hence-forth any Church-men be found ſeduceing the people as aforeſaid, or countenancing, either ſeducers, or the ſeduced, wee muſt, and Will preſently vpon notice giuen, proceede againſt ſuch, as enemies of the common good, and iniurious to the Gouernment, the ſuddaineſſ and great<g ref="char:EOLhyphen"/>neſſ of the preſent fatall dangers neceſſitating vs thereunto.</p>
+            <p>HENCE it is, that none is to conceiue, wee intend heereby (ſince both are <hi>per viam facti,</hi> and for our naturall and neceſſary defence, in aſſumeing into our protection the vniuſtly oppreſſed <hi>Eccleſiaſticks</hi>) to vſurp an illegall power, iuriſdiction, or vnwarrantable prerogatiue, or to intrench vppon the immunities of the Church, being ſoe farr from either, as wee are certaine, our decree in all, and every the aforeſaid perticulars, doth not ſwarue from the ſquare of <hi>ſacred Canons,</hi> from the conſent of <hi>great Diuines</hi> and <hi>Canoniſts,</hi> from the practiſe of moſt <hi>Catholick Nations</hi> (and amongſt the reſt of <hi>England</hi> before the <hi>ſchiſme</hi> without controulement of the Clergie) nay we are vndoubtedly poſſeſſed, the law of nature (which is aboueall <hi>Cannons</hi>) doth approue and Commaund it ſo ſtrictly, as wee cannot other<g ref="char:EOLhyphen"/>wiſe anſwer the trvſt repoſed in vs, when by our negligence heerein, the liues and fortunes of the Confederat Catholicks would be expoſed to moſt ineuitable and euident danger. Giuen at <hi>Kilkenny</hi> Caſtle, the third day of Iune 1648. and in the Four and twentieth yeare of the Raigne of our Soueraigne Lord CHARLES By the Grace of God, King of Great <hi>Brittaine, France,</hi> and <hi>Ireland.</hi>
+            </p>
+            <closer>
+               <signed>Mountgarrett. Athunry, Donboyne. Lucas Dillon, Rob. Linch, Richard Barnewall, Richard Euerard, Richard Bellings. Patrick Gough, Iohn Walſh, Gerrald Fennell, Patricke Brian, Robert Deuereax, George Commin.</signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Kilkenny in the Yeare of our Lord 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
